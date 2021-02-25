@@ -28,7 +28,6 @@ button:focus {
 
 .wrapper {
   margin: 0 auto;
-  /* 120rem * 10 = 1200 px */
   max-width: 120rem;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -75,8 +74,6 @@ button:focus {
   font-weight: normal;
   font-size: 1.3rem;
   line-height: 110%;
-  /* line-height: 1.5rem; это по умолчанию*/
-  /* identical to box height */
   letter-spacing: 0.13rem;
   color: #292929;
 }
@@ -220,8 +217,6 @@ button:focus {
     font-weight: normal;
     font-size: 1.3rem;
     line-height: 110%;
-    /* line-height: 1.5rem; это по умолчанию*/
-    /* identical to box height */
     letter-spacing: 0.13rem;
     color: #292929;
   }
@@ -560,7 +555,6 @@ button:focus {
   font-weight: normal;
   font-size: 2rem;
   line-height: 115%;
-  /* identical to box height, or 23px */
   letter-spacing: 0.12rem;
   background: transparent;
   color: #292929;
@@ -728,7 +722,6 @@ button:focus {
     font-weight: normal;
     font-size: 2rem;
     line-height: 115%;
-    /* identical to box height, or 23px */
     letter-spacing: 0.12rem;
     background: transparent;
     color: #292929;
@@ -888,7 +881,6 @@ button:focus {
     font-weight: normal;
     font-size: 2rem;
     line-height: 115%;
-    /* identical to box height, or 23px */
     letter-spacing: 0.12rem;
     background: transparent;
     color: #292929;
@@ -981,7 +973,6 @@ button:focus {
   font-weight: normal;
   font-size: 2rem;
   line-height: 115%;
-  /* identical to box height, or 23px */
   letter-spacing: 0.12rem;
   color: #F1CDB3;
   text-decoration: none;
@@ -1004,7 +995,6 @@ button:focus {
   font-weight: normal;
   font-size: 2rem;
   line-height: 115%;
-  /* identical to box height, or 23px */
   letter-spacing: 0.12rem;
   color: #F1CDB3;
   text-decoration: none;
@@ -1053,7 +1043,6 @@ button:focus {
   font-weight: normal;
   font-size: 2rem;
   line-height: 115%;
-  /* identical to box height, or 23px */
   letter-spacing: 0.12rem;
   color: #F1CDB3;
   text-decoration: none;
@@ -1075,7 +1064,6 @@ button:focus {
   font-weight: normal;
   font-size: 2rem;
   line-height: 115%;
-  /* identical to box height, or 23px */
   letter-spacing: 0.12rem;
   color: #F1CDB3;
   text-decoration: none;
@@ -1182,7 +1170,6 @@ button:focus {
     font-weight: normal;
     font-size: 2rem;
     line-height: 115%;
-    /* identical to box height, or 23px */
     letter-spacing: 0.12rem;
     color: #F1CDB3;
     text-decoration: none;
@@ -1200,7 +1187,6 @@ button:focus {
     font-weight: normal;
     font-size: 2rem;
     line-height: 115%;
-    /* identical to box height, or 23px */
     letter-spacing: 0.12rem;
     color: #F1CDB3;
     text-decoration: none;
@@ -1246,7 +1232,6 @@ button:focus {
     font-weight: normal;
     font-size: 2rem;
     line-height: 115%;
-    /* identical to box height, or 23px */
     letter-spacing: 0.12rem;
     color: #F1CDB3;
     text-decoration: none;
@@ -1266,7 +1251,6 @@ button:focus {
     font-weight: normal;
     font-size: 2rem;
     line-height: 115%;
-    /* identical to box height, or 23px */
     letter-spacing: 0.12rem;
     color: #F1CDB3;
     text-decoration: none;
@@ -1406,7 +1390,6 @@ button:focus {
   font-weight: normal;
   font-size: 2rem;
   line-height: 115%;
-  /* identical to box height, or 23px */
   letter-spacing: 0.12rem;
   margin-bottom: 4rem;
 }
@@ -1417,7 +1400,6 @@ button:focus {
   font-weight: normal;
   font-size: 1.5rem;
   line-height: 110%;
-  /* identical to box height, or 17px */
   letter-spacing: 0.06em;
   margin-bottom: 4rem;
 }
